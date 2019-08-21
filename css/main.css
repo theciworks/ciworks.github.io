@@ -2583,7 +2583,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------- End Facts Area -------------*/
-/*--------- Start Portfolio Area -------------*/
+/*--------- Start Customers Area -------------*/
 .portfolio-area .primary-btn {
   color: #fff;
   background-color: #8490ff;
@@ -2722,7 +2722,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: all 0.3s ease 0s;
 }
 
-/*--------- End Portfolio Area -------------*/
+/*--------- End Customers Area -------------*/
 /*--------- start testimonial area  -------------*/
 .testimonial-area {
   background-color: #f9f9ff;
@@ -4460,7 +4460,7 @@ dl.accordion.time-line:before {
 }
 
 .footer-bottom {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 .footer-bottom .footer-social {
@@ -4478,8 +4478,29 @@ dl.accordion.time-line:before {
   color: #8490ff;
 }
 
-.footer-text a {
-  color: #8490ff;
+.client-text {
+  text-shadow: 2px 2px 4px black;
+  color: #fff;
+  font-family: Arvo;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 0.8em;
+  letter-spacing: 0.1em;
 }
+
+/* .client-text {
+  color: #fff;
+  font-family: Arvo;
+  font-weight: bold;
+  text-shadow:
+  2px 2px 4px #cccccc;
+  line-height: 0.8em;
+  letter-spacing: 0.1em;
+  transform: scaleY(0.7);
+  -webkit-transform: scaleY(0.7);
+  -moz-transform: scaleY(0.7);
+  margin:0;
+  font-size: 60px;
+} */
 
 /*-------- end footer Area -------------*/
